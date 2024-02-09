@@ -1,0 +1,7 @@
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\bin\Debug\2024_02_09_gyak2.exe.config
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\bin\Debug\2024_02_09_gyak2.exe
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\bin\Debug\2024_02_09_gyak2.pdb
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\obj\Debug\2024_02_09_gyak2.csproj.AssemblyReference.cache
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\obj\Debug\2024_02_09_gyak2.csproj.CoreCompileInputs.cache
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\obj\Debug\2024_02_09_gyak2.exe
+C:\Users\borza.gergo\Desktop\2024_02_09_gyak2\2024_02_09_gyak2\obj\Debug\2024_02_09_gyak2.pdb

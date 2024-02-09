@@ -1,0 +1,7 @@
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\bin\Debug\2024.02.09_DOGA.exe.config
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\bin\Debug\2024.02.09_DOGA.exe
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\bin\Debug\2024.02.09_DOGA.pdb
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\obj\Debug\2024.02.09_DOGA.csproj.AssemblyReference.cache
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\obj\Debug\2024.02.09_DOGA.csproj.CoreCompileInputs.cache
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\obj\Debug\2024.02.09_DOGA.exe
+C:\Users\borza.gergo\Desktop\2024.02.09_DOGA\2024.02.09_DOGA\obj\Debug\2024.02.09_DOGA.pdb
